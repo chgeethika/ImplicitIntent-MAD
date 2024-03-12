@@ -128,13 +128,8 @@ Registeration Number : 212221040032
 
 ## OUTPUT
 ![Screenshot (285)](https://github.com/chgeethika/ImplicitIntent-MAD/assets/142209368/97153d76-bd20-4dcf-95a3-531eea9944cf)
-![Screenshot (283)](https://github.com/chgeethika/ImplicitIntent-MAD/assets/142209368/7f630a66-17ff-4295-a903-8fc079d95597)
-![Screenshot (284)](https://github.com/chgeethika/ImplicitIntent-MAD/assets/142209368/af422082-f89a-40fa-a555-fbda0ee8e8bc)
-
-
-
-
-
+![Screenshot (287)](https://github.com/chgeethika/ImplicitIntent-MAD/assets/142209368/f3e80a54-3b1d-434c-986a-4a316327f0d1)
+![Screenshot (288)](https://github.com/chgeethika/ImplicitIntent-MAD/assets/142209368/8dbd93d8-8a80-4153-a66d-d000d4cac3af)
 
 
 ## RESULT
